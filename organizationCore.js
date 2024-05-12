@@ -1,6 +1,6 @@
 import {initializeApp} from "https://www.gstatic.com/firebasejs/10.11.1/firebase-app.js";
 import {getDatabase, ref, set, child, get, remove} from "https://www.gstatic.com/firebasejs/10.11.1/firebase-database.js";
-// == Final ==
+// === Final ===
 //sessionStorage.setItem("currentUser","1");
 const firebaseConfig = {
   apiKey: "AIzaSyDF5_FiAIvFJ4DAgRgXirWqzlsMzSBR5oA",
