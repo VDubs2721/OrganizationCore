@@ -1,7 +1,7 @@
 # OrganizationCore
 Revolutionizing the education experience for students 
 
-Created for [PantherHacks 2024]([https://summit.devpost.com/](https://pantherhack-2024.devpost.com/?ref_feature=challenge&ref_medium=your-open-hackathons&ref_content=Submissions+open))
+Created for [PantherHacks 2024](https://pantherhack-2024.devpost.com/?ref_feature=challenge&ref_medium=your-open-hackathons&ref_content=Submissions+open)
 
 ## 📊Profile Wide Statistics📊
 
